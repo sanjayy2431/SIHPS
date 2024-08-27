@@ -1,17 +1,42 @@
 # Smart India Hackathon Workshop
+
 <b>
 <b>
 <b>
   
 # Date:26.08.24
+<b>
+<b>
+<b>
+  
 ## Register Number: 212223230188
+<b>
+<b>
+<b>
+  
 ## Name: SANJAY V
+<b>
+<b>
+<b>
+  
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
+<b>
+<b>
+<b>
+
 ## Problem Description
 Case Management Hearing, known as a Pre-Trial Conference" in other jurisdictions". This application is used for managing case files since filing to disposal and to complete all its related processes. The CMS keeps the records of all the cases filed in Delhi High Court. The system has following features: Filing of Case, Caveat matching, Allocation of case, Daily Case Proceedings, Notice Generation, Case Transfer, Case Status Search, Report, etc.
+<b>
+<b>
+<b>
+
 ## Problem Creater's Organization
 Ministry of Law and Justice
+
+<b>
+<b>
+<b>
 
 ## Idea
 Advanced Search & Filtering: Enable users to filter facilities based on the specific e-waste types they accept, such as computers, TVs, or batteries.
