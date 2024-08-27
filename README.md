@@ -46,6 +46,11 @@ Data & Insights: Create a system to collect and analyze user-reported data on e-
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/user-attachments/assets/3f5bb5ff-b82a-4911-b06c-547e86852bda)
@@ -54,6 +59,15 @@ Data & Insights: Create a system to collect and analyze user-reported data on e-
 ## Use Cases
 ![WhatsApp Image 2024-08-27 at 05 31 05_74ca34dc](https://github.com/user-attachments/assets/07270298-324c-4cb5-b0a3-f45247c5a0de)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Technology Stack
 Front-End:
@@ -72,7 +86,12 @@ API Integration:
 
 Google Maps API: Essential for the facility locator functionality, enabling users to search for nearby facilities, view locations on a map, and get directions.
 Optional API: For a reward system, you may need to integrate with APIs from e-waste recycling companies to access data on the precious metal content of various devices.
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Dependencies
 Front-End and Back-End: Required technologies for building the user interface and server-side logic.
