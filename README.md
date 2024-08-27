@@ -44,7 +44,18 @@ Advanced Search & Filtering: Enable users to filter facilities based on the spec
 Interactive Features: Introduce a quiz or an interactive map to make learning about responsible e-waste disposal more engaging. Provide a "responsible disposal guide" that offers step-by-step instructions for tasks like data wiping and preparing e-waste for recycling.
 
 Data & Insights: Create a system to collect and analyze user-reported data on e-waste types and quantities, providing valuable insights to the Ministry of Environment.
-
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/user-attachments/assets/3f5bb5ff-b82a-4911-b06c-547e86852bda)
