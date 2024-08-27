@@ -1,42 +1,42 @@
 # Smart India Hackathon Workshop
 
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
   
 # Date:26.08.24
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
   
 ## Register Number: 212223230188
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
   
 ## Name: SANJAY V
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
   
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
 
 ## Problem Description
 Case Management Hearing, known as a Pre-Trial Conference" in other jurisdictions". This application is used for managing case files since filing to disposal and to complete all its related processes. The CMS keeps the records of all the cases filed in Delhi High Court. The system has following features: Filing of Case, Caveat matching, Allocation of case, Daily Case Proceedings, Notice Generation, Case Transfer, Case Status Search, Report, etc.
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
 
 ## Problem Creater's Organization
 Ministry of Law and Justice
 
-<b>
-<b>
-<b>
+<br>
+<br>
+<br>
 
 ## Idea
 Advanced Search & Filtering: Enable users to filter facilities based on the specific e-waste types they accept, such as computers, TVs, or batteries.
@@ -44,18 +44,10 @@ Advanced Search & Filtering: Enable users to filter facilities based on the spec
 Interactive Features: Introduce a quiz or an interactive map to make learning about responsible e-waste disposal more engaging. Provide a "responsible disposal guide" that offers step-by-step instructions for tasks like data wiping and preparing e-waste for recycling.
 
 Data & Insights: Create a system to collect and analyze user-reported data on e-waste types and quantities, providing valuable insights to the Ministry of Environment.
-<b>
-<b>
-<b>
-<b>
-<b>
-<b>
-<b>
-<b>
-<b>
-<b>
-<b>
-<b>
+
+<br>
+<br>
+<br>
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/user-attachments/assets/3f5bb5ff-b82a-4911-b06c-547e86852bda)
