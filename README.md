@@ -54,7 +54,18 @@ Data & Insights: Create a system to collect and analyze user-reported data on e-
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/user-attachments/assets/3f5bb5ff-b82a-4911-b06c-547e86852bda)
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Use Cases
 ![WhatsApp Image 2024-08-27 at 05 31 05_74ca34dc](https://github.com/user-attachments/assets/07270298-324c-4cb5-b0a3-f45247c5a0de)
