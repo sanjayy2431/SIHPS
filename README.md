@@ -119,17 +119,25 @@ Case Progress Reports: Provide automated generation of case progress reports, of
 ## Technology Stack
 
 React.js
+
 Node.js
+
 PostgreSQL
+
 Google maps
+
 Firebox Authenticator
+
 Git , Postman or Insomnia
 
 ## Dependencies
 
 1.Software Development Frameworks
- 2.Database Management Systems
+
+2.Database Management Systems
+
 3.Video Conferencing Tools
+
 4.Security Tools
 
 
