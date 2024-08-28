@@ -89,11 +89,6 @@ Case Progress Reports: Provide automated generation of case progress reports, of
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Use Cases
 ![image](https://github.com/user-attachments/assets/2a9a2d43-03d0-4f3d-964d-7039c63f4b6c)
@@ -109,13 +104,7 @@ Case Progress Reports: Provide automated generation of case progress reports, of
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Technology Stack
 
