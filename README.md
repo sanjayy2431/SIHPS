@@ -100,10 +100,7 @@ Case Progress Reports: Provide automated generation of case progress reports, of
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 ## Technology Stack
@@ -119,7 +116,10 @@ Google maps
 Firebox Authenticator
 
 Git , Postman or Insomnia
-
+<br>
+<br>
+<br>
+<br>
 ## Dependencies
 
 1.Software Development Frameworks
