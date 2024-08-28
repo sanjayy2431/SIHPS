@@ -117,22 +117,12 @@ Case Progress Reports: Provide automated generation of case progress reports, of
 <br>
 
 ## Technology Stack
-Front-End:
-
-HTML: Provides the basic structure and content of the website.
-CSS: Handles the styling of visual elements, including layout, fonts, and colors.
-JavaScript Framework: ReactJS is a strong choice for delivering a dynamic and interactive user experience. It allows for the creation of reusable components and efficient management of complex data flows.
-Back-End:
-
-Database: PostgreSQL is recommended for storing various data, including:
-E-waste facility details (locations, contact information, accepted waste types)
-Educational content (text, images, videos)
-User data (for a potential reward system) – secure storage practices like password hashing should be used for storing usernames, points, etc.
-Device data (for a reward system) – model numbers and corresponding precious metal content (in collaboration with e-waste recycling companies).
-API Integration:
-
-Google Maps API: Essential for the facility locator functionality, enabling users to search for nearby facilities, view locations on a map, and get directions.
-Optional API: For a reward system, you may need to integrate with APIs from e-waste recycling companies to access data on the precious metal content of various devices.
+React.js
+Node.js
+PostgreSQL
+Google maps
+Firebox Authenticator
+Git , Postman or Insomnia
 <br>
 <br>
 <br>
@@ -141,13 +131,11 @@ Optional API: For a reward system, you may need to integrate with APIs from e-wa
 <br>
 
 ## Dependencies
-Front-End and Back-End: Required technologies for building the user interface and server-side logic.
-Database Management System: Essential for storing and managing data related to the e-waste facilities, users, and educational content.
-Development Tools:
+```
+1.Software Development Frameworks
+ 2.Database Management Systems
+3.Video Conferencing Tools
+4.Security Tools
 
-Code Editors: Necessary for writing and editing the code.
-Version Control System: Critical for tracking changes, collaborating with team members, and managing the project's codebase.
-Budget for the Project: ₹50,000 - ₹75,000
-
-Time Period: 15 days to 1 month
+```
 
