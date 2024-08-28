@@ -71,7 +71,8 @@ Case Progress Reports: Provide automated generation of case progress reports, of
 
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/3f5bb5ff-b82a-4911-b06c-547e86852bda)
+![image](https://github.com/user-attachments/assets/75a35899-4675-42db-9047-b3781a86400b)
+
 <br>
 <br>
 <br>
@@ -95,7 +96,7 @@ Case Progress Reports: Provide automated generation of case progress reports, of
 <br>
 
 ## Use Cases
-![WhatsApp Image 2024-08-27 at 05 31 05_74ca34dc](https://github.com/user-attachments/assets/07270298-324c-4cb5-b0a3-f45247c5a0de)
+![image](https://github.com/user-attachments/assets/2a9a2d43-03d0-4f3d-964d-7039c63f4b6c)
 
 <br>
 <br>
